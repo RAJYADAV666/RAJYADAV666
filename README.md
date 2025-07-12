@@ -15,6 +15,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyadav666&show_icons=true&locale=en&layout=compact" alt="rajyadav666" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajyadav666&show_icons=true&locale=en" alt="rajyadav666" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajyadav666&" alt="rajyadav666" /></p>
 
 
 
